@@ -1,1 +1,30 @@
-/target/
+# Maven target directory
+target/
+
+# Maven backup and auxiliary files
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# Maven wrapper files
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse m2e generated files
+.project
+.classpath
+
+# Opcional: Ignorar archivos temporales o backups de Obsidian
+*.md~ 
+*.bak
+*.tmp
+
+# Ignorar todo dentro de la carpeta readme
+readme/*
+
+# Excepto archivos .md dentro de readme
+!readme/**/*.md
