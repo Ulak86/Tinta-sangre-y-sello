@@ -2,7 +2,7 @@
 public class Borrame {
 
 	public Borrame() {
-		// gfghf
+		// gfg
 	}
 
 }
