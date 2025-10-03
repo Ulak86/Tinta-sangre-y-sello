@@ -15,3 +15,9 @@ buildNumber.properties
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+
+# Ignorar todo dentro de la carpeta readme
+readme/*
+
+# Excepto archivos .md dentro de readme
+!readme/**/*.md
