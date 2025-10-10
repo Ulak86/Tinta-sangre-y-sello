@@ -12,13 +12,16 @@ public class Dado21 {
         return random.nextInt(21) + 1;
     }
     
-    public static void main(String[] args) {
+  public static int Dado21() {
         Dado21 miDado = new Dado21();
         
         // Lanzar el dado varias veces
         for (int i = 0; i < 5; i++) {
             int resultado = miDado.lanzar();
             System.out.println("Lanzamiento " + (i + 1) + ": " + resultado);
-        }
+        
+		return resultado  ;
+    }
+		return 0;
     }
 }
