@@ -14,7 +14,8 @@ public class MAIN {
 
 		Dado21 dado21 = new Dado21();
 		for (int i = 0; i < 1; i++) {
-
+ 
+			
 			int resultado = dado21.lanzar();
 			System.out.println("Lanzamiento " + (i + 1) + ": " + resultado);
 		}

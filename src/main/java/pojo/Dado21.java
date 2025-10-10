@@ -3,7 +3,7 @@ import java.util.Random;
 
 public class Dado21 {
     private Random random;
-    
+     
     public Dado21() {
         random = new Random();
     }
