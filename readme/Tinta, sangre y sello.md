@@ -166,28 +166,6 @@ Criatura de clase alta con hechizos de “Veraneo en Marbella” y “Lágrima p
 
 
 ---
-
-### Ejemplo de cómo interpretar los rangos:
-
-- Un **Funcionario** típico puede tener:
-    
-    - Fuerza = 4
-        
-    - Resistencia = 8
-        
-    - Velocidad = 3
-        
-    - Magia = 5
-        
-- Un **Manifestante** podría tener:
-    
-    - Fuerza = 7
-        
-    - Resistencia = 6
-        
-    - Velocidad = 9
-        
-    - Magia = 4
 ## Jefes
 ### 1. **La Burocracia Viviente**
 
