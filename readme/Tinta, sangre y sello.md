@@ -81,18 +81,89 @@ al que le puedo pasar una o varias criaturas poniendo un máximo de 3 criaturas.
 ## Razas
 ### Razas y rangos de atributos
 
-| Raza             | Fuerza | Resistencia | Velocidad | Magia  | Descripción breve                                         |
-| ---------------- | ------ | ----------- | --------- | ------ | --------------------------------------------------------- |
-| **Funcionario**  | 3 - 6  | 7 - 10      | 2 - 5     | 4 - 7  | Paciente, resistente, buena burocracia, poca agilidad.    |
-| **Político**     | 4 - 7  | 4 - 7       | 4 - 7     | 7 - 10 | Influencia y carisma altos, fuerza física baja.           |
-| **Ciudadano**    | 5 - 8  | 5 - 8       | 5 - 8     | 3 - 6  | Equilibrado, con capacidades medias en todo.              |
-| **Manifestante** | 6 - 9  | 4 - 7       | 7 - 10    | 3 - 5  | Rápidos y fuertes en protesta, magia baja.                |
-| **Periodista**   | 3 - 5  | 3 - 5       | 8 - 10    | 6 - 9  | Muy ágiles, buena magia informativa, poca fuerza.         |
-| **Ministro**     | 4 - 6  | 5 - 8       | 3 - 5     | 8 - 10 | Alta magia política, resistencia decente, baja velocidad. |
-| **Autónomo**     | 5 - 7  | 5 - 7       | 5 - 7     | 4 - 6  | Autónomo medio, con capacidades balanceadas.              |
-| **Juez**         | 4 - 6  | 6 - 9       | 3 - 5     | 7 - 9  | Alta resistencia y magia judicial, poca agilidad.         |
-| **Sindicalista** | 6 - 8  | 6 - 8       | 5 - 7     | 5 - 7  | Fuerza y resistencia fuertes, magia moderada.             |
-| **Cayetano**     | 2 - 4  | 4 - 6       | 4 - 6     | 6 - 8  | Baja fuerza, algo de magia social, velocidad media.       |
+| Raza          | Fuerza | Resistencia | Velocidad | Magia |
+|----------------|:------:|:------------:|:----------:|:------:|
+| Funcionario    |   5    |      8       |     5      |   6    |
+| Político       |   5    |      6       |     6      |   7    |
+| Ciudadano      |   6    |      6       |     6      |   6    |
+| Manifestante   |   7    |      6       |     7      |   4    |
+| Periodista     |   4    |      5       |     8      |   7    |
+| Ministro       |   5    |      7       |     4      |   8    |
+| Autónomo       |   6    |      6       |     6      |   6    |
+| Juez           |   5    |      7       |     4      |   8    |
+| Sindicalista   |   6    |      6       |     6      |   6    |
+| Cayetano       |   5    |      6       |     6      |   7    |
+
+#### Funcionario
+**Fuerza:** 5  
+**Resistencia:** 8  
+**Velocidad:** 5  
+**Magia:** 6  
+Paciente hasta la inmortalidad, inmune al estrés y al paso del tiempo laboral. Su poder principal es "Trámite Infinito", que ralentiza a cualquier enemigo con formularios. Posee alta resistencia al despido y una habilidad pasiva: “Siempre hay un sello más”. Su debilidad: el lunes.
+
+#### Político
+**Fuerza:** 5  
+**Resistencia:** 6  
+**Velocidad:** 6  
+**Magia:** 7  
+Criatura de verbo afilado y memoria selectiva. Canaliza su magia en promesas imposibles y discursos que alteran la realidad (al menos durante una legislatura). Puede absorber puntos de experiencia de los demás con su hechizo “Rueda de prensa confusa”. Inmune a la vergüenza y al sentido de la responsabilidad.
+
+#### Ciudadano
+**Fuerza:** 6  
+**Resistencia:** 6  
+**Velocidad:** 6  
+**Magia:** 6  
+Equilibrado pero frustrado. Nunca destaca, nunca desaparece. Sobrevive con café, resignación y un sentido cívico que se tambalea cada vez que llega la factura de la luz. Tiene la habilidad “Cola del supermercado”, que pone a prueba la paciencia de todos los presentes. Ideal para quienes disfrutan sufriendo sin recompensa.
+
+#### Manifestante
+**Fuerza:** 7  
+**Resistencia:** 6  
+**Velocidad:** 7  
+**Magia:** 4  
+Rápido, ruidoso y resistente a los gases lacrimógenos. Gana +2 a velocidad cuando detecta una cámara de televisión. Su grito de guerra “¡No nos representan!” causa confusión masiva entre enemigos y aliados por igual. Magia baja, pero moral altísima (hasta que pasa la policía montada).
+
+#### Periodista
+**Fuerza:** 4  
+**Resistencia:** 5  
+**Velocidad:** 8  
+**Magia:** 7  
+Se mueve velozmente entre rumores y comunicados oficiales. Su magia consiste en distorsionar la realidad con titulares y crear caos informativo. Puede invocar la habilidad “Exclusiva inventada” para manipular la opinión pública. Frágil físicamente, pero letal con una grabadora encendida.
+
+#### Ministro
+**Fuerza:** 5  
+**Resistencia:** 7  
+**Velocidad:** 4  
+**Magia:** 8  
+Figura mística que habita entre despachos y coches oficiales. Su magia política es tan poderosa que puede desaparecer fondos públicos con un simple gesto arcano (“Transferencia invisible”). Lento en movimiento, pero rápido para asignar culpas. Su frase pasiva: “No tengo constancia de eso”.
+
+#### Autónomo
+**Fuerza:** 6  
+**Resistencia:** 6  
+**Velocidad:** 6  
+**Magia:** 6  
+Guerrero trágico que lucha contra dragones llamados “IVA” y “cuota mensual”. Su energía vital desciende cada fin de mes sin razón aparente. Tiene la habilidad “Facturar sin cobrar” y el hechizo “Esperanza fiscal” (que nunca funciona). Su resistencia mental es infinita, aunque su cuenta bancaria no.
+
+#### Juez
+**Fuerza:** 5  
+**Resistencia:** 7  
+**Velocidad:** 4  
+**Magia:** 8  
+Ser ancestral que invoca el poder de los procedimientos. Puede dormir enemigos (y casos) durante décadas. Su magia judicial altera el tiempo y el espacio: una simple “Providencia” puede detener una guerra... o archivar un escándalo. Poca agilidad, pero resistencia de mármol y paciencia de archivo muerto.
+
+#### Sindicalista
+**Fuerza:** 6  
+**Resistencia:** 6  
+**Velocidad:** 6  
+**Magia:** 6  
+Guerrero veterano de pancarta y bocadillo envuelto en papel de aluminio. Su poder “Asamblea eterna” inmoviliza a todos los presentes durante horas. Alta fuerza y resistencia, sobre todo a la autocrítica. Su magia media le permite negociar beneficios invisibles mientras proclama la lucha obrera.
+
+#### Cayetano
+**Fuerza:** 5  
+**Resistencia:** 6  
+**Velocidad:** 6  
+**Magia:** 7  
+Criatura de clase alta con hechizos de “Veraneo en Marbella” y “Lágrima por el IVA del yate”. Poca fuerza, pero gran poder de influencia social y defensa verbal gracias a su frase mágica “¿Sabes quién es mi padre?”. Su talón de Aquiles: las zonas de aparcamiento público.
+
 
 ---
 
